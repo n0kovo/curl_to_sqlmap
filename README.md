@@ -1,2 +1,3 @@
-# curl_to_sqlmap
-Convert cURL command syntax to SQLMap command syntax
+# cURL to SQLMap
+Convert cURL command syntax to SQLMap command syntax.
+Extremely convenient with "Copy as cURL" in Dev Tools.
